@@ -1,9 +1,0 @@
-Title: EvilCorp
-
-Points: 300
-
-Description:
-A hacker has infiltrated the EvilCorp systems, and while they’ve exposed several passwords, one crucial admin password remains protected. The hacker gathered the following credentials from various employee accounts, but the admin's password wasn’t found in any leaked databases. The admin had been seen typing their password, and it was clear the password was 8 characters long: 4 lowercase letters followed by 4 numbers.
-
-Your task is to identify the hash type of the given credentials, and then brute-force the admin’s password using the clues provided.
-Flag format: pass1234
