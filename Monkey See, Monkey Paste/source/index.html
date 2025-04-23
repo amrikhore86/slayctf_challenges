@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hidden Flight Path</title>
+  <style>
+    body {
+      background: #f7f7f7;
+      color: #2e2e2e;
+      font-family: 'Courier New', monospace;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .box {
+      max-width: 640px;
+      padding: 2rem;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+    }
+    h1 {
+      text-align: center;
+      font-size: 1.4rem;
+      margin-bottom: 1.5rem;
+    }
+    pre {
+      background: #f0f0f0;
+      padding: 1rem;
+      border-radius: 10px;
+      word-wrap: break-word;
+      overflow-x: auto;
+      user-select: text;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h1>Monkey Code</h1>
+    <pre id="j0ckbX" contenteditable="true">Loading...</pre>
+  </div>
+
+  <script>
+    const a1 = `__import__('builtins').print("".join(map(chr,[115,108,97,121,123,99,108,49,112,98,48,52,114,100,95,49,110,106,51,99,116,49,48,110,115,125])))`;
+    const b2 = `__import__('webbrowser').open("".join(map(chr,[104,116,116,112,115,58,47,47,121,111,117,116,117,46,98,101,47,100,81,119,52,119,57,87,103,88,99,81])))`;
+
+    function hideCode() {
+      const z3 = document.getElementById('j0ckbX');
+      z3.textContent = a1;
+
+      z3.addEventListener('copy', function(e) {
+        e.preventDefault();
+        e.clipboardData.setData('text/plain', b2);
+        setTimeout(() => {
+          alert("Copied!");
+        }, 300);
+      });
+    }
+
+    setTimeout(hideCode, 200);
+  </script>
+</body>
+</html>

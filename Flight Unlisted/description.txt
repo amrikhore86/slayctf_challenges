@@ -1,0 +1,16 @@
+Title: Flight Unlisted
+
+Points: 200
+
+Description:
+In 2005, an aircraft overran the runway at Mumbai airport. Years later, its abandoned fuselage reappeared in an unexpected place — far from any terminal or runway.
+
+After being sold and repurposed for civilian use, the aircraft now rests quietly beside a highway in Maharashtra. Once a brief attraction in a closed water park, it’s now used for film shoots and urban exploration.
+
+Your mission is to identify:
+
+1)The make and model of this aircraft.
+
+2)Its current location (latitudes and longitudes, stripped to 3 decimal places).
+
+Flag format -> slay{airbus-a320_12.971_77.594}
