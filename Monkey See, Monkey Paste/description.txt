@@ -7,3 +7,4 @@ You've stumbled upon a snippet of Python that seems to reveal the flag — if yo
 
 But are you sure you got what you saw?
 
+https://monkeytype-3xk.pages.dev/
