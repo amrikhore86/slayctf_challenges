@@ -2,6 +2,8 @@ Title: Monkey see, Monkey paste
 
 Points: 100
 
+Category: General
+
 Description: 
 You've stumbled upon a snippet of Python that seems to reveal the flag — if you're the type to copy, paste, and run without thinking, this one's for you.
 
