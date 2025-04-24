@@ -1,0 +1,12 @@
+Title: Dual Nature
+
+Points: 100
+
+Category: Forensics
+
+Description:
+What you see isn't always the whole story.
+Sometimes, there’s more hidden beneath the surface.
+Can you unzip the truth and uncover the full flag?
+
+Two parts, two faces — only when you find them both will the puzzle be complete.
