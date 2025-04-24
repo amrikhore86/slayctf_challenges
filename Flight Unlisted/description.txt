@@ -2,6 +2,8 @@ Title: Flight Unlisted
 
 Points: 200
 
+Category: OSINT
+
 Description:
 In 2005, an aircraft overran the runway at Mumbai airport. Years later, its abandoned fuselage reappeared in an unexpected place — far from any terminal or runway.
 
